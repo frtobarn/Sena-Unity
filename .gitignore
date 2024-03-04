@@ -1,0 +1,31 @@
+# Unity generated files
+Horror_Ambient/Library/
+Horror_Ambient/Logs/
+Horror_Ambient/UserSettings/
+Horror_Ambient/Temp/
+Horror_Ambient/Build/
+Horror_Ambient/obj/
+
+# VS/MD solution and project files
+#*.gitignore
+*.sln
+*.csproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+
+# Mac
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Files built by Unity
+*.apk
+*.unitypackage
